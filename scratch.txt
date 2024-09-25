@@ -1,0 +1,68 @@
+    <header id="home">
+      <!-- [ Nav ] start -->
+      <nav class="navbar navbar-expand-md default top-nav-collapse">
+        <div class="container">
+          <a class="navbar-brand" href="index.html">
+            <img src="assets/images/logo-white.svg" alt="logo" />
+          </a>
+          <button
+            class="navbar-toggler rounded"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarTogglerDemo01"
+            aria-controls="navbarTogglerDemo01"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+            <ul class="navbar-nav ms-auto mb-2 mb-lg-0 align-items-start">
+              <li class="nav-item px-1">
+                <a class="nav-link" href="https://codedthemes.gitbook.io/gradient-able-bootstrap/" target="_blank">Documentation</a>
+              </li>
+              <li class="nav-item px-1">
+                <a class="nav-link" href="dashboard/index.html">Live Preview</a>
+              </li>
+              <li class="nav-item px-1">
+                <a class="nav-link" href="elements/bc_alert.html">Components</a>
+              </li>
+            </ul>
+            <ul class="navbar-nav mb-2 mb-lg-0 align-items-start">
+              <li class="nav-item">
+                <a href="https://codedthemes.com/item/gradient-able-admin-template/" target="_blank" class="btn btn-success"
+                  >Get Gradient Able <i class="ph ph-arrow-square-out"></i
+                ></a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+      <!-- [ Nav ] start -->
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-md-10 text-center">
+            <h1 class="text-white title mb-4 wow animate__fadeInUp" data-wow-delay="0.2s">
+              Explore One of the
+              <strong style="background-image: url('assets/images/landing/img-title-line-white.svg')">Featured Dashboard</strong>
+              Template in Codedthemes
+            </h1>
+            <div class="row justify-content-center wow animate__fadeInUp" data-wow-delay="0.3s">
+              <div class="col-md-8">
+                <p class="text-white text-opacity-75 f-16 mb-0">
+                  Gradient Able is the one of the Featured admin dashboard template in Envato Marketplace and used by over 2.5K+ Customers
+                  wordwide.
+                </p>
+              </div>
+            </div>
+            <div class="my-4 my-sm-5 wow animate__fadeInUp" data-wow-delay="0.4s">
+              <a href="elements/bc_alert.html" class="btn btn-outline-light me-2">Explore Components</a>
+              <a href="dashboard/index.html" class="btn btn-light-primary">Live Preview</a>
+            </div>
+            <div class="mt-4 mt-sm-5 wow animate__fadeInUp" data-wow-delay="0.4s">
+              <img src="assets/images/landing/img-header-main.jpg" alt="images" class="img-fluid img-header" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
